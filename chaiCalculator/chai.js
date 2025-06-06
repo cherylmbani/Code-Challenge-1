@@ -17,7 +17,7 @@ function calculateChaiIngredients(numberOfCups){
     console.log(`Milk: ${totalMilk} ml`);
     console.log(`Tea leaves:${totalTeaLeaves} tablespoons`);
     console.log(`Sugar: ${totalSugar} tablespoon`);
-    console.log("Enjoy your Chai Bora!");
+    console.log("\nEnjoy your Chai Bora!");
 }
 
     //Prompting user input
