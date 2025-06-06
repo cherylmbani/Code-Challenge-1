@@ -17,5 +17,14 @@ function calculateChaiIngredients(numberOfCups){
     console.log(`Milk: ${totalMilk} ml`);
     console.log(`Tea leaves:${totalTeaLeaves} tablespoons`);
     console.log(`Sugar: ${totalSugar} tablespoon`);
-
+    console.log("Enjoy your Chai Bora!");
 }
+
+    //Prompting user input
+    const input = prompt("Karibu! How many cups of Chai Bora would you like to make?");
+    const numberOfCups = Number(input);
+    if(!isNaN(numberOfCups) && numberOfCups>0){
+        calculateChaiIngredients(numberOfCups);
+    }else {
+        console.log("Please enter a valid number of cups");
+    }
