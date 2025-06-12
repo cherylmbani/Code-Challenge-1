@@ -5,7 +5,7 @@ function calculateChaiIngredients(numberOfCups){
     const teaLeaves = 1; // tablespoons
     const sugar = 2; // tablespoons
 
-    // calculate the total ingredients
+    // calculate the total for each ingredients based on the number of cups input
     const totalWater = numberOfCups * water;
     const totalMilk = numberOfCups * milk;
     const totalTeaLeaves = numberOfCups * teaLeaves;

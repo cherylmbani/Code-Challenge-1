@@ -1,4 +1,4 @@
-# Code Challenge 1 — Cheryl’s JavaScript Journey 🇰🇪✨
+# Code Challenge 1 — Cheryl’s JavaScript Journey 
 
 Welcome to my **Code Challenge 1** repository! This is where I tackled Week 1 JavaScript problems inspired by everyday Kenyan life — from brewing chai to riding boda bodas and sending mobile money.
 
