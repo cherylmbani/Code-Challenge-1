@@ -1,4 +1,4 @@
-h# Code Challenge 1 
+Code Challenge 1 
 
 Welcome to my **Code Challenge 1** repository! This is where I tackled Week 1 JavaScript problems, inspired by real-life Kenyan experiences — from brewing the perfect cup of chai, budgeting boda boda rides, to estimating mobile money transaction fees.
 
